@@ -1,3 +1,6 @@
+
+**Important**: If you choose to complete this assignment, please follow this link to create a GitHub repository for your work: <https://classroom.github.com/a/X7giQMMP>
+
 # Adjusting .json Data
 
 In PrairieLearn, assignments are described by `.json` data.  This data 
