@@ -1,0 +1,52 @@
+{
+  "uuid": "c5dc9468-6f03-4a32-8dad-b4b905f7d07f",
+  "type": "Homework",
+  "title": "Homework 6",
+  "set": "Homework",
+  "number": "6",
+  "allowAccess": [
+    {
+      "uids": [
+        "kurmasa@mail.gvsu.edu", "Gavinthomsen07@gmail.com", "presingp@mail.gvsu.edu"
+      ],
+      "mode": "Public",
+      "credit": 100,
+      "startDate": "2024-08-29T00:00:01",
+      "endDate": "2024-12-13T11:02:00"
+    },
+    {
+      "mode": "Public",
+      "credit": 100,
+      "startDate": "2024-09-08T13:00:00",
+      "endDate": "2024-09-26T23:59:00"
+    },
+    {
+      "mode": "Public",
+      "credit": 50,
+      "startDate": "2024-09-25T13:00:00",
+      "endDate": "2024-09-27T23:59:00"
+    },
+    {
+      "mode": "Public",
+      "credit": 0,
+      "startDate": "2024-09-27T11:02:01",
+      "endDate": "2024-12-30T23:59:59"
+    }
+  ],
+  "zones": [
+    {
+      "questions": [
+        {
+          "id": "linux/basic-filesystem-workspace",
+          "points": 100,
+          "maxPoints": 100
+        }
+      ]
+    }
+  ],
+  "groupWork": false,
+  "groupMaxSize": 3,
+  "groupMinSize": 1,
+  "studentGroupCreate": true,
+  "studentGroupJoin": true
+}

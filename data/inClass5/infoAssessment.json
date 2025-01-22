@@ -1,0 +1,52 @@
+{
+  "uuid": "B42EAAC6-3ADE-41F2-BACA-5AEC2E146E46",
+  "type": "Homework",
+  "title": "In Class 5",
+  "set": "In-Class",
+  "number": "5",
+  "allowAccess": [
+    {
+      "uids": [
+        "kurmasa@mail.gvsu.edu", "Gavinthomsen07@gmail.com", "presingp@mail.gvsu.edu", "gadigep@mail.gvsu.edu", "konijetm@mail.gvsu.edu"
+      ],
+      "mode": "Public",
+      "credit": 95,
+      "startDate": "2024-01-29T00:00:01",
+      "endDate": "2024-12-13T11:02:00"
+    },
+    {
+      "mode": "Public",
+      "credit": 100,
+      "startDate": "2024-09-08T13:00:00",
+      "endDate": "2024-09-22T23:59:59"
+    },
+    {
+      "mode": "Public",
+      "credit": 80,
+      "startDate": "2024-09-18T13:00:00",
+      "endDate": "2024-09-24T23:59:59"
+    },
+    {
+      "mode": "Public",
+      "credit": 0,
+      "startDate": "2024-09-20T11:02:01",
+      "endDate": "2024-12-30T23:59:59"
+    }
+  ],
+  "zones": [
+    {
+      "questions": [
+        {
+          "id": "inClass/ic5a_branching_intro",
+          "points": 100,
+          "maxPoints": 100
+        }
+      ]
+    }
+  ],
+  "groupWork": false,
+  "groupMaxSize": 3,
+  "groupMinSize": 1,
+  "studentGroupCreate": true,
+  "studentGroupJoin": true
+}
