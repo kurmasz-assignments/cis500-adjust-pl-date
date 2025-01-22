@@ -34,3 +34,4 @@ Have the new values replace the old values (i.e., overwrite the input file).
 
 You may use `pl_adjust_date.py` as a starting point, if you like.
 
+You may find this article helpful: <https://www.geeksforgeeks.org/reading-and-writing-json-to-a-file-in-python/>
